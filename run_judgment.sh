@@ -1,0 +1,12 @@
+python gen_judgment.py --model-list Your model --data_folder ./results --bench-name Activity --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Forecast --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Localization/location --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Localization/spatial --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Object/affordance --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Object/attribute --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Object/existence --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Planning/assistance --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Planning/navigation --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Reasoning/comparing --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Reasoning/counting --parallel 1 --mode single
+python gen_judgment.py --model-list Your model --data_folder ./results  --bench-name Reasoning/situated --parallel 1 --mode single
