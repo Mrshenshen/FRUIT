@@ -17,6 +17,7 @@ Comparisons with existing 7B-sized large vision-language models on the EgoThink 
 ![result-13b](figs/result-13b.png)
 
 Comparisons with existing 13B-sized LVLMs on the EgoThink. Bolded values represent the best performance.
+![demo](figs/demo.gif)
 
 ## Experiment
 
