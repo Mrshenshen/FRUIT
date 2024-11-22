@@ -12,8 +12,9 @@ The overall framework of the proposed FRUIT method. It consists of two key compo
 
 ![demo](figs/demo.gif)
 
-Comparative analysis between LVLM baselines and our proposed FRUIT method in the Forecast, Localization, Reasoning and Object subsets. Incorrect descriptions are highlighted in red. Correct predictions are bolded in blue.
 ![cases](figs/sup_examples.png)
+
+Comparative analysis between LVLM baselines and our proposed FRUIT method in the Forecast, Localization, Reasoning and Object subsets. Incorrect descriptions are highlighted in red. Correct predictions are bolded in blue.
 
 ![result](figs/result.png)
 
