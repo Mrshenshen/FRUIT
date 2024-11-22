@@ -10,6 +10,11 @@ The overall framework of the proposed FRUIT method. It consists of two key compo
 
 ## Results
 
+![demo](figs/demo.gif)
+
+Comparative analysis between LVLM baselines and our proposed FRUIT method in the Forecast, Localization, Reasoning and Object subsets. Incorrect descriptions are highlighted in red. Correct predictions are bolded in blue.
+![cases](figs/sup_examples,png)
+
 ![result](figs/result.png)
 
 Comparisons with existing 7B-sized large vision-language models on the EgoThink benchmark, including Object (Existence,Attribute, Affordance), Activity, Localization (Location, Spatial Relationship), Reasoning (Counting, Comparison, Situated Reasoning),and Forecasting. Bolded values represent the best performance.
@@ -17,7 +22,7 @@ Comparisons with existing 7B-sized large vision-language models on the EgoThink 
 ![result-13b](figs/result-13b.png)
 
 Comparisons with existing 13B-sized LVLMs on the EgoThink. Bolded values represent the best performance.
-![demo](figs/demo.gif)
+
 
 ## Experiment
 
