@@ -1,8 +1,8 @@
 ## Introduction
 
-This is the source code of "Enhancing Egocentric Reasoning in Large Vision-Language Models via Front-Door Adjustments with Uncertainty Calibration"
+This is the source code of "From Observation to Understanding: Front-Door Adjustments with Uncertainty Calibration for Enhancing Egocentric Reasoning in LVLMs"
 
-## Enhancing Egocentric Reasoning in Large Vision-Language Models via Front-Door Adjustments with Uncertainty Calibration
+## From Observation to Understanding: Front-Door Adjustments with Uncertainty Calibration for Enhancing Egocentric Reasoning in LVLMs
 
 The overall framework of the proposed FRUIT method. It consists of two key components: Egocentric Front-Door Adjustment (EFDA) that includes Interventional Cue Generation (ICG) and Output Influence via Cue Mediation (OICM), and Uncertainty Calibration Mechanism (UCM). The ~~Caption~~ denotes the deletion of this caption.
 
