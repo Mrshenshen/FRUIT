@@ -1,0 +1,1 @@
+python eval.py --model_name LLaVA-1.5-7b --batch_size 1 --device 1
